@@ -29,7 +29,7 @@ University of Costa Rica
 
 ## CONTACT INFORMATION:
 
-* [email:](zumbadohector@gmail.com)
+* [email](mailto:zumbadohector@gmail.com)
 * [GitHub](https://github.com/hzumbado/)
 * [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
 * ORCID: 0000-0001-7039-9967
