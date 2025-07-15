@@ -1,5 +1,6 @@
-title: null
+title: Hector's portfolio
 name: null
+logo: https://www.biologia.una.ac.cr/images/academicosv2/hectorzumbado.jpg
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
