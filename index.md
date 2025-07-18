@@ -34,3 +34,8 @@ University of Costa Rica
 * [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
 * ORCID: 0000-0001-7039-9967
 * [Google Scholar](https://scholar.google.com/citations?user=UZ2YHecAAAAJ&hl=en)
+
+## Map of UC Boulder
+
+<embed type="text/html" src="maps/ucb.html" width="600" height="600">
+
