@@ -39,3 +39,6 @@ University of Costa Rica
 
 <embed type="text/html" src="maps/ucb.html" width="600" height="600">
 
+## Map of Universidad Nacional
+
+<embed type="text/html" src="maps/una.html" width="600" height="600">
