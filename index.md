@@ -6,7 +6,7 @@ I am a faculty at the [School of Biological Sciences](https://www.biologia.una.a
 
 ## RESEARCH EXPERIENCE
 
-"C:\Users\UNA\Documents\UNA\cursos\eco_pc\eco_pc\output\figures\Craugastor_fitzingeri_distribution_cantones.jpg"
+![headshot]("C:/Users/UNA/Documents/UNA/cursos/eco_pc/eco_pc/output/figures/Craugastor_fitzingeri_distribution_cantones.jpg")
 
 Postdoctoral Scholar
 Department of Entomoly
