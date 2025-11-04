@@ -6,8 +6,6 @@ I am a faculty at the [School of Biological Sciences](https://www.biologia.una.a
 
 ## RESEARCH EXPERIENCE
 
-![map]("C:/Users/UNA/Documents/UNA/cursos/eco_pc/eco_pc/output/figures/Craugastor_fitzingeri_distribution_cantones.jpg")
-
 Postdoctoral Scholar
 Department of Entomoly
 Center for Conservation Biology
@@ -44,3 +42,6 @@ University of Costa Rica
 ## Map of Universidad Nacional
 
 <embed type="text/html" src="maps/una.html" width="600" height="600">
+
+# Distribution of _Craugastor fitzingeri_
+![map]("Craugastor_fitzingeri_distribution_cantones.jpg")
