@@ -43,5 +43,5 @@ University of Costa Rica
 
 <embed type="text/html" src="maps/una.html" width="600" height="600">
 
-# Distribution of _Craugastor fitzingeri_
-![]("Craugastor_fitzingeri_distribution_cantones.jpg")
+## Distribution of _Craugastor fitzingeri_
+![](Craugastor_fitzingeri_distribution_cantones.jpg)
