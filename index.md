@@ -29,6 +29,8 @@ University of Costa Rica
 
 ## CONTACT INFORMATION:
 
+<a href="mailto:zumbadohector@gmail.com">Email Me</a>
+
 * [Email me](mailto:zumbadohector@gmail.com) 
 * [GitHub](https://github.com/hzumbado/)
 * [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
